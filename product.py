@@ -18,3 +18,4 @@ class Product:
         self.price = json_["price"]
         self.prev_price = json_["prev_price"]
         self.link = json_["link"]
+        
